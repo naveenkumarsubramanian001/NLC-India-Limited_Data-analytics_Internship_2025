@@ -39,7 +39,24 @@ The task involved:
 - SQL script files used during the experiments
 
 ---
+## 📊 Day 2 – Power BI Sales Dashboard
 
+Developed a fully interactive **Sales Dashboard** using Power BI to analyze total sales, operating profit, and product performance.
+
+**Key Features:**
+- KPI Cards: Sales ($900M), Profit ($332M), Profit % (36.91%), Units Sold (2M)
+- Visuals: Bar charts, Pie chart, Line graph with slicers for Year, Quarter, Region, and Retailer
+- Insights: Top Product – Men's Street Footwear | Top Retailer – West Gear
+
+🔧 Tools: Power BI Desktop, Data Modeling, Slicers, Custom Visuals
+
+📌 Learned dashboard creation, data relationships, and storytelling with visuals.
+
+![Screenshot 2025-06-18 185059](https://github.com/user-attachments/assets/be2f68cb-c728-4c76-91fc-efb2337644b8)
+![Screenshot 2025-06-18 185117](https://github.com/user-attachments/assets/00b99f56-0776-428f-9205-102e4dd1a3e7)
+
+
+---
 📌 *More daily logs and projects will be added to this repository as the internship progresses.*
 
 🔗 **Connect with me on [LinkedIn](https://www.linkedin.com/in/naveen-kumar-subramanian-ba6810242/)** for updates and collaboration.
