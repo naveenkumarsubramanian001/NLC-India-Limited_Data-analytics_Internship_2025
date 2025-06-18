@@ -1,0 +1,83 @@
+Day 1 Internship Report – NLC India Limited
+SQL Commands Experimentation using MariaDB & MySQL (WAMP Server)
+📅 Date: [Insert Date Here]
+🏢 Internship: NLC India Limited
+Department: [Insert Department if known]
+Role: Intern – Database and Backend Systems
+
+📌 Overview
+On Day 1 of my internship at NLC India Limited, I was given a hands-on task to explore and experiment with all types of SQL commands including DDL, DML, DCL, TCL, and DQL. I executed each command in both MariaDB and MySQL using the WAMP Server setup on my local machine.
+
+The objective was to understand the functionality of each command, observe its behavior, and document the results. I created a detailed report showcasing the syntax, command used, description, and output.
+
+💻 Tools Used
+Database Server: MariaDB & MySQL
+
+Environment: WAMP Server (Windows)
+
+SQL Interface: MySQL Command Line & phpMyAdmin
+
+Editor: Notepad++ / VS Code (Optional)
+
+🧠 What I Learned
+✅ SQL Command Categories Explored:
+DDL (Data Definition Language)
+
+CREATE, DROP, ALTER, TRUNCATE, RENAME
+
+DML (Data Manipulation Language)
+
+INSERT, UPDATE, DELETE, REPLACE
+
+DCL (Data Control Language)
+
+GRANT, REVOKE
+
+TCL (Transaction Control Language)
+
+COMMIT, ROLLBACK, SAVEPOINT
+
+DQL (Data Query Language)
+
+SELECT, including complex queries with WHERE, GROUP BY, ORDER BY, HAVING, etc.
+
+✅ Operators Practiced:
+Arithmetic: +, -, *, /, %
+
+Comparison: =, !=, <>, <, >, <=, >=
+
+Logical: AND, OR, NOT
+
+Special: BETWEEN, LIKE, IN, IS NULL, EXISTS
+
+📄 Output Report
+I created a structured report where each command is accompanied by:
+
+SQL Syntax
+
+Description of its purpose
+
+The table/data it was used on
+
+Screenshot or written output of the result
+
+Notes or observations (e.g., behavior difference between MariaDB & MySQL if any)
+
+🔍 Key Takeaways
+Understood core SQL operations and database behavior.
+
+Learned to differentiate between command types and their real-world usage.
+
+Gained experience in using MariaDB and MySQL interchangeably.
+
+Strengthened my foundational skills for advanced database tasks in the upcoming days of the internship.
+
+📂 Files Included
+README.md (this file)
+SQL_Command_Report.pdf 
+Sample SQL scripts used during experimentation
+
+📫 Contact
+If you'd like to know more about this experience or get access to my report, feel free to connect with me:
+Naveen
+linkedin - https://www.linkedin.com/in/naveen-kumar-subramanian-ba6810242/
